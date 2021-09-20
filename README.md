@@ -46,7 +46,8 @@ Ben Solve, bugün sizlere birazcık diğer projelerden ödün*Çalarak* yaptığ
 <a href="https://github.com/solvebey/SolveBeyV13Supers/blob/main/Source/Commands/A-Example.js">Örnek Koda buradan</a> bakıp istediğiniz komutu ekleyebilirsiniz. İyi kodlamalar şimdiden :)
 
 ## Credits
-<a href="https://github.com/solvebey/SolveBeyV13Supers">Projenin Asıl Sahibi</a>
+<a href="https://github.com/solvebey/SolveBeyV13Supers">Projenin Asıl Sahibi</a> 
+</br>
 <a href="https://github.com/Astpod/astpod-slash-commands-mod/">Kodlardan bazılarını arakladığım v13 bot</a>
 
 ## 🌍 Social Media
